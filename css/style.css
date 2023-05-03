@@ -1150,6 +1150,14 @@ main {
   background-position: -5px -270px;
 }
 
+.contacts__link--instagram {
+  background-position: -5px -231px;
+}
+
+.contacts__link--facebook {
+  background-position: -5px -192px;
+}
+
 .contacts__link--vk {
   background-position: -5px -309px;
 }

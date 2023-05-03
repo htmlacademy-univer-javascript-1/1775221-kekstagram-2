@@ -8,11 +8,5 @@ env:
   es2017: true
   browser: true
 
-globals:
-  _: readonly
-  L: readonly
-  noUiSlider: readonly
-  Pristine: readonly
-
 extends:
   "htmlacademy/vanilla"
